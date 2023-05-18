@@ -1,3 +1,10 @@
 This is my text file for lab 1
 
 I have made a change
+
+General flow:
+git add <modified files> # add any new changes to be committed
+git status #allows you to check the stae of your files
+git commit -m <message> #commits the files in a changelist
+git push #push them to your repo
+git pull # pull any current changes from repo
